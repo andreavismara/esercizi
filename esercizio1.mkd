@@ -1,0 +1,70 @@
+# Esercizio 1
+
+Il Comune decide di avviare un progetto per la creazione di una nuova linea di autobus no-stop tra l’Ospedale e la Stazione ferroviaria.
+
+Dopo un iniziale brainstorming si è giunti a concepire il processo che dovrà scaturire al termine del progetto:
+- Acquistare il biglietto;
+- Aspettare alla fermata;
+- Salire sull’autobus;
+- Percorrere la tratta in autobus;
+- Scendere dall’autobus.
+
+Vista l’importanza del servizio offerto risulterà necessario pubblicizzare la nuova linea prevedendo una intensa comunicazione ai clienti (tutti i cittadini <- stackholder).
+
+Inoltre, le dimensioni del progetto sono tali da richiedere, fra gli obiettivi principali dello stesso, una sua adeguata gestione.
+
+Il servizio della nuova linea di autobus dovrà prevedere:
+- La realizzazione delle infrastrutture: fermate, automezzi, percorso;
+- Il personale dedicato ed esso;
+- Il piano per la gestione delle emergenze: gestione della rottura degli automezzi e la scelta dei percorsi alternativi in caso di incidenti lungo il percorso.
+
+Si svolgano i seguenti punti:
+1. Realizzare il workflow del processo che dovrà scaturire al termine del progetto;
+2. Realizzare il WBS del progetto fino al 3° livello di dettaglio utilizzando il criterio di disaggregazione per obiettivi, per i soli obiettivi necessari.
+
+## Workflow
+
+1. Acquisto del biglietto
+2. Attesa alla fermata
+3. Salita sull'autobus
+4. Percorrenza della tratta in autobus
+5. Discesa dall'autobus
+
+## WBS del progetto
+
+Ecco il WBS utilizzando un menu a tendina in markdown:
+
+<details>
+<summary>WBS del progetto:</summary>
+
+1. **Creazione della nuova linea di autobus**
+    - 1.1 Realizzazione delle infrastrutture
+        - 1.1.1 Costruzione delle fermate
+        - 1.1.2 Acquisto dei nuovi automezzi
+        - 1.1.3 Definizione del percorso
+    - 1.2 Assunzione del personale dedicato
+        - 1.2.1 Selezione dei conducenti
+        - 1.2.2 Formazione del personale di bordo
+    - 1.3 Pianificazione della gestione delle emergenze
+        - 1.3.1 Elaborazione del piano per la gestione delle rotture degli automezzi
+        - 1.3.2 Identificazione dei percorsi alternativi in caso di incidenti
+2. **Pubblicizzazione della nuova linea**
+    - 2.1 Creazione dei materiali pubblicitari
+        - 2.1.1 Realizzazione di volantini
+        - 2.1.2 Progettazione di manifesti
+    - 2.2 Distribuzione dei materiali pubblicitari
+        - 2.2.1 Organizzazione di eventi di lancio
+        - 2.2.2 Distribuzione dei volantini e dei manifesti
+3. **Gestione del progetto**
+    - 3.1 Monitoraggio delle attività
+        - 3.1.1 Controllo dello stato delle infrastrutture
+        - 3.1.2 Verifica del reclutamento del personale
+        - 3.1.3 Supervisione della distribuzione dei materiali pubblicitari
+    - 3.2 Gestione delle risorse
+        - 3.2.1 Assegnazione dei compiti
+        - 3.2.2 Controllo del budget
+    - 3.3 Gestione dei rischi
+        - 3.3.1 Identificazione dei rischi potenziali
+        - 3.3.2 Implementazione di misure di mitigazione
+
+</details>
