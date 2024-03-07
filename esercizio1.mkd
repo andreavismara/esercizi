@@ -24,18 +24,24 @@ Si svolgano i seguenti punti:
 
 ## Workflow
 
-1. Acquisto del biglietto
-2. Attesa alla fermata
-3. Salita sull'autobus
-4. Percorrenza della tratta in autobus
-5. Discesa dall'autobus
+Il processo di utilizzo della nuova linea di autobus è suddiviso in diversi passaggi per garantire un'esperienza fluida e efficiente per i passeggeri:
+
+1. **Acquisto del biglietto**: Prima di salire sull'autobus, i passeggeri devono acquistare il biglietto. Possono farlo tramite diverse modalità, tra cui l'utilizzo dei distributori automatici presenti presso le fermate, l'applicazione mobile dedicata o recandosi presso i punti vendita autorizzati. Questo passaggio garantisce che i passeggeri siano in possesso del titolo di viaggio necessario per accedere al servizio.
+
+2. **Attesa alla fermata**: Una volta acquistato il biglietto, i passeggeri si dirigono alla fermata designata. Qui, consultano gli orari di arrivo degli autobus tramite appositi tabelloni informativi o attraverso l'applicazione mobile. Questo passaggio consente ai passeggeri di pianificare il loro viaggio in anticipo e ridurre i tempi di attesa alla fermata.
+
+3. **Salita sull'autobus**: Quando l'autobus arriva alla fermata, i passeggeri salgono a bordo tramite le porte designate. Possono mostrare il biglietto al conducente o convalidarlo attraverso dispositivi dedicati. Questo passaggio assicura che solo i passeggeri in regola con il titolo di viaggio possano accedere al servizio, contribuendo alla corretta gestione del flusso di passeggeri.
+
+4. **Percorrenza della tratta in autobus**: Una volta saliti a bordo, l'autobus percorre la tratta stabilita, fermandosi solo alle fermate indicate lungo il percorso. Durante il viaggio, i passeggeri possono usufruire di un ambiente confortevole e sicuro, garantendo un'esperienza piacevole durante tutto il tragitto.
+
+5. **Discesa dall'autobus**: Alla fermata desiderata, i passeggeri scendono dall'autobus. Eventualmente, possono usufruire di annunci vocali o visivi che indicano le fermate, facilitando il processo di discesa e garantendo che nessun passeggero perda la propria fermata. Questo passaggio completa il viaggio dei passeggeri sulla nuova linea di autobus, consentendo loro di raggiungere facilmente la propria destinazione.
+
+
+     
 
 ## WBS del progetto
 
-Ecco il WBS utilizzando un menu a tendina in markdown:
-
-<details>
-<summary>WBS del progetto:</summary>
+Ecco il WBS:
 
 1. **Creazione della nuova linea di autobus**
     - 1.1 Realizzazione delle infrastrutture
@@ -66,5 +72,3 @@ Ecco il WBS utilizzando un menu a tendina in markdown:
     - 3.3 Gestione dei rischi
         - 3.3.1 Identificazione dei rischi potenziali
         - 3.3.2 Implementazione di misure di mitigazione
-
-</details>
